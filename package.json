@@ -1,0 +1,24 @@
+{
+  "name": "comp2068-lab1",
+  "version": "1.0.0",
+  "description": "COMP2068 Lab1 - JS Node Server App and Heroku deployment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdpub/comp2068-lab1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdpub/comp2068-lab1/issues"
+  },
+  "homepage": "https://github.com/cdpub/comp2068-lab1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
